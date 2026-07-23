@@ -7,15 +7,6 @@
       "kid": "kwal-poc-2026-07",
       "n": "tALkVw7xtpAC1kYrdXhslbDmzKo8as888YKMpEkM9i-y3qP6HBGxzZWitnP9Hv05F7brYu3jXGT-zsOFxB6-avTmpDxFEoLTjaj5R2stC7xlExiHd_FKjmcRFm57jqcr9PfkZ_fIsHLxuJnXDBuQu41kiHphCeL1uGE6_IPRiBpbrEP38Fdkjki2x1YNZv2eQcIISq5fAlWNwEUtPzIh0pSRFZ3cFhk_-K3vgU7HSe9vBqugTt0HGUT5ATg9j_5XSHP6smTTDrHHLNB2jdGyREOJyNjz22iWVw87l4t3S74vPkyCLBqXJGou0kiA82fdPNpDmmFt3ksDDdj1UGdwRw",
       "e": "AQAB"
-    },
-    {
-      "kty": "EC",
-      "crv": "P-256",
-      "use": "sig",
-      "alg": "ES256",
-      "kid": "kwal-poc-ec-2026-07",
-      "x": "0Pa1WTNlIsWTH9gnGx7pZXkl_uC6dAf5hrgvzyC0Sqw",
-      "y": "jBL__DOA2N00VgZGHLdlgclvxUFpmaz8kCLq_z5yF5Q"
     }
   ]
 }
